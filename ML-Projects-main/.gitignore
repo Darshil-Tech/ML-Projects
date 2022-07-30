@@ -1,0 +1,7 @@
+train_example.bson
+dataframe.csv
+category_names.csv
+
+__pycache__/
+.ipynb_checkpoints/
+
